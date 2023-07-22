@@ -16,7 +16,7 @@
 
 ## Projects
 
-- [Project 1](https://github.com/pinkfloydsito/manguito-api) - Golang API  used to handle mangas to download
+- [Manguito API](https://github.com/pinkfloydsito/manguito-api) - Golang API  used to handle mangas to download
 - [Manguito UI](https://github.com/pinkfloydsito/manguito-ui) - React App used to render and view your mangas.
 - [Terraform Learning](https://github.com/pinkfloydsito/terraform-samples) - Terraform scrips created when studying.
 
