@@ -1,6 +1,6 @@
 # Hello, I'm Ceb 👋
 
-![image](https://github.com/pinkfloydsito/pinkfloydsito/assets/8844096/cc11d52a-5c68-45c9-90b2-7408d0bb3e55)
+ <img src="https://github.com/pinkfloydsito/pinkfloydsito/assets/8844096/cc11d52a-5c68-45c9-90b2-7408d0bb3e55" width="100" height="100">
 
 ## About Me
 
