@@ -10,9 +10,10 @@
 
 ## Skills and Interests
 
-- 🔧 Golang
-- 🔧 Rust
-- 🔧 Devops Skills
+- 🏢 I'm currently working at **Thoughtworks Inc.**
+- 🚀 I use daily: **JavaScript**, **Python**, , **Ruby**, **Golang**, **Git**, **Bash**, **NeoVim**
+- 💻 I work using: **Perl**, **Django**, **PostgreSQL**, **Amazon AWS**, **Azure**, **GitHub**, **Ruby on Rails**
+
 
 ## Projects
 
