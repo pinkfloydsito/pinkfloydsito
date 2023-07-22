@@ -1,36 +1,40 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ceb 👋
 
-[![Profile Picture](url-to-your-image.png)](https://yourusername.github.io)
+![image](https://github.com/pinkfloydsito/pinkfloydsito/assets/8844096/cc11d52a-5c68-45c9-90b2-7408d0bb3e55)
 
 ## About Me
 
-- 💻 [Your Profession/Job Title]
-- 🌱 [Any ongoing learning or courses]
-- 🎓 [Any degrees or certifications]
-- 📝 [Any blogs or articles]
+- 💻 Sofware Engineer
+- 🌱 Learning Golang / Korean
+- 🎓 AWS / Terraform
 
 ## Skills and Interests
 
-- 🔧 [Skill/Interest 1]
-- 🔧 [Skill/Interest 2]
-- 🔧 [Skill/Interest 3]
+- 🔧 Golang
+- 🔧 Rust
+- 🔧 Devops Skills
 
 ## Projects
 
-- [Project 1](https://github.com/yourusername/project1) - Short description of Project 1.
-- [Project 2](https://github.com/yourusername/project2) - Short description of Project 2.
-- [Project 3](https://github.com/yourusername/project3) - Short description of Project 3.
+- [Project 1](https://github.com/pinkfloydsito/manguito-api) - Golang API  used to handle mangas to download
+- [Manguito UI](https://github.com/pinkfloydsito/manguito-ui) - React App used to render and view your mangas.
+- [Terraform Learning](https://github.com/pinkfloydsito/terraform-samples) - Terraform scrips created when studying.
 
 ## Contact Me
 
-- 📧 [Email](mailto:youremail@example.com)
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
+- 📧 [Email](mailto:ceeb.developer@gmail.com)
+- [GitHub](https://github.com/pinkfloydsito)
 
-## Badges
 
-![Badge 1](https://img.shields.io/badge/-Badge%201-abcdef)
-![Badge 2](https://img.shields.io/badge/-Badge%202-ff69b4)
-
-<!-- Feel free to add more sections or customize it as per your preference 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
